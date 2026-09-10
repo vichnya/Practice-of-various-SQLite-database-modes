@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sqlite-persistent-db"
-version = "0.3.0"
+version = "0.4.0"
 description = "Учебный проект по работе с SQLite в Python"
 authors = ["Victoria Chernysheva"]
 
